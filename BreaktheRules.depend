@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1442099690 source:c:\users\student\breaktherules\breaktherules\main.cpp
+	<iostream>
+	<vector>
+
